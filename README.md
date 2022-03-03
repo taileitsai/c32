@@ -1,0 +1,1 @@
+● Learn about API calls and how to make an API call. ● Learn about the JSON data structure and how to access data from JSON. ● Learn how to create an asynchronous function in Javascript. ● Build the scoring system for the game.
